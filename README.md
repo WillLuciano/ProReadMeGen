@@ -25,7 +25,7 @@ npm inquirer
 After cloning the repo and installing npm inquirer, use the command line to navigate and type node index. Follow prompts to enter required fields and select from optional additional fields. The README will be created in the main route. 
     
 ### Screenshots
-![Here is the screenshot image of the application.](assets\images\snapshoot.PNG)
+![Here is the screenshot image of the application.](https://github.com/WillLuciano/ProReadMeGen/blob/main/assets/images/snapshoot.PNG)
 A screenshot image of the application.
 
 ## Built With
