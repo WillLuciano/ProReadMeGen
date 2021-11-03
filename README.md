@@ -25,7 +25,7 @@ npm inquirer
 After cloning the repo and installing npm inquirer, use the command line to navigate and type node index. Follow prompts to enter required fields and select from optional additional fields. The README will be created in the main route. 
     
 ### Screenshots
-![Here is the screenshot image of the application.](screenshot.png)
+![Here is the screenshot image of the application.](assets\images\snapshoot.PNG)
 A screenshot image of the application.
 
 ## Built With
@@ -48,7 +48,7 @@ There is no test information for this application at this time.
 and run `npm run test` from the command line.
 
 ## Demo Video
-Visit Demo Video [here](https://) to view a demonstration video of how to install the application.
+Visit Demo Video [here](https://watch.screencastify.com/v/Jr8QfL8stW1RcBkTATsM) to view a demonstration video of how to install the application.
     
 ## Questions
 If you have any questions about the repo, please [open an issue](https://github.com/WillLuciano/ProReadMeGen/issues) or contact me via email at williamluciano47@gmail.com.
